@@ -1,3 +1,3 @@
-# nest-leaning
+# nest-learning
 
-### Leaning NestJS
+### Learning NestJS
